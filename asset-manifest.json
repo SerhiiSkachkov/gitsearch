@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gitsearch/static/css/main.528a989a.chunk.css",
+    "main.js": "/gitsearch/static/js/main.af81b1f5.chunk.js",
+    "main.js.map": "/gitsearch/static/js/main.af81b1f5.chunk.js.map",
+    "runtime-main.js": "/gitsearch/static/js/runtime-main.ffb2991a.js",
+    "runtime-main.js.map": "/gitsearch/static/js/runtime-main.ffb2991a.js.map",
+    "static/js/2.79dcdd63.chunk.js": "/gitsearch/static/js/2.79dcdd63.chunk.js",
+    "static/js/2.79dcdd63.chunk.js.map": "/gitsearch/static/js/2.79dcdd63.chunk.js.map",
+    "index.html": "/gitsearch/index.html",
+    "precache-manifest.1649686c3363afa7b9aed1288852b586.js": "/gitsearch/precache-manifest.1649686c3363afa7b9aed1288852b586.js",
+    "service-worker.js": "/gitsearch/service-worker.js",
+    "static/css/main.528a989a.chunk.css.map": "/gitsearch/static/css/main.528a989a.chunk.css.map",
+    "static/js/2.79dcdd63.chunk.js.LICENSE.txt": "/gitsearch/static/js/2.79dcdd63.chunk.js.LICENSE.txt",
+    "static/media/index.sass": "/gitsearch/static/media/Gilroy-Regular.ae5e7255.ttf",
+    "static/media/logo.svg": "/gitsearch/static/media/logo.4ab1c025.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb2991a.js",
+    "static/js/2.79dcdd63.chunk.js",
+    "static/css/main.528a989a.chunk.css",
+    "static/js/main.af81b1f5.chunk.js"
+  ]
+}
